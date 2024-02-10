@@ -11,7 +11,8 @@
     "n": "^9.2.0",
     "next": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "vercel": "^32.3.0"
   },
   "devDependencies": {
     "@types/node": "18.7.5",
